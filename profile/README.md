@@ -4,6 +4,6 @@ We're an international team of people working to fuel and organize the creation 
 ---
 
 #### Projects
-- [x] [LeaveUkraine](leaveukraine.com) &nbsp; ![](https://img.shields.io/github/issues/Ukraine-Relief-Efforts/ukraine-info-guide?style=plastic)
+- [x] [LeaveUkraine](https://leaveukraine.com) &nbsp; ![](https://img.shields.io/github/issues/Ukraine-Relief-Efforts/ukraine-info-guide?style=plastic)
 - [x] [Alarm Bot](https://github.com/Ukraine-Relief-Efforts/AlarmBot) &nbsp; ![](https://img.shields.io/github/issues/Ukraine-Relief-Efforts/AlarmBot)
 
